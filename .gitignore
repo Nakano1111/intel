@@ -50,3 +50,7 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+/.vs
+/ConsoleApplication1/.vs/ConsoleApplication1
+/ConsoleApplication1/x64/Debug
+/ConsoleApplication1/Debug
