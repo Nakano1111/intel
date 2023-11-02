@@ -1,0 +1,60 @@
+﻿  ConsoleApplication2.cpp
+C:\Intel\ConsoleApplication2\ConsoleApplication2.cpp(16,5): error C2652: 'point': 복사 생성자가 잘못되었습니다. 첫 번째 매개 변수가 'point'이(가) 아니어야 합니다.
+C:\Intel\ConsoleApplication2\ConsoleApplication2.cpp(4,7): message : 'point' 선언을 참조하십시오.
+C:\Intel\ConsoleApplication2\ConsoleApplication2.cpp(16,10): error C2333: 'point::point': 함수 선언에 오류가 있습니다. 함수 본문을 건너뜁니다.
+C:\Intel\ConsoleApplication2\ConsoleApplication2.cpp(23,16): error C2059: 구문 오류: ')'
+C:\Intel\ConsoleApplication2\ConsoleApplication2.cpp(42,17): error C2061: 구문 오류: 식별자 'xl'
+C:\Intel\ConsoleApplication2\ConsoleApplication2.cpp(43,17): error C2061: 구문 오류: 식별자 'xl'
+C:\Intel\ConsoleApplication2\ConsoleApplication2.cpp(44,17): error C2061: 구문 오류: 식별자 'yl'
+C:\Intel\ConsoleApplication2\ConsoleApplication2.cpp(45,17): error C2061: 구문 오류: 식별자 'yl'
+C:\Intel\ConsoleApplication2\ConsoleApplication2.cpp(49,1): error C2628: 'rect' 다음에 'void'이(가) 올 수 없습니다. ';'이 있어야 합니다.
+C:\Intel\ConsoleApplication2\ConsoleApplication2.cpp(36,19): error C2027: 정의되지 않은 형식 'Point'을(를) 사용했습니다.
+C:\Intel\ConsoleApplication2\ConsoleApplication2.cpp(23,7): message : 'Point' 선언을 참조하십시오.
+C:\Intel\ConsoleApplication2\ConsoleApplication2.cpp(37,19): error C2027: 정의되지 않은 형식 'Point'을(를) 사용했습니다.
+C:\Intel\ConsoleApplication2\ConsoleApplication2.cpp(23,7): message : 'Point' 선언을 참조하십시오.
+C:\Intel\ConsoleApplication2\ConsoleApplication2.cpp(38,19): error C2027: 정의되지 않은 형식 'Point'을(를) 사용했습니다.
+C:\Intel\ConsoleApplication2\ConsoleApplication2.cpp(23,7): message : 'Point' 선언을 참조하십시오.
+C:\Intel\ConsoleApplication2\ConsoleApplication2.cpp(39,19): error C2027: 정의되지 않은 형식 'Point'을(를) 사용했습니다.
+C:\Intel\ConsoleApplication2\ConsoleApplication2.cpp(23,7): message : 'Point' 선언을 참조하십시오.
+C:\Intel\ConsoleApplication2\ConsoleApplication2.cpp(50,1): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+C:\Intel\ConsoleApplication2\ConsoleApplication2.cpp(57,16): error C3861: 'sqet': 식별자를 찾을 수 없습니다.
+C:\Intel\ConsoleApplication2\ConsoleApplication2.cpp(59,1): error C2059: 구문 오류: '}'
+C:\Intel\ConsoleApplication2\ConsoleApplication2.cpp(59,1): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
+C:\Intel\ConsoleApplication2\ConsoleApplication2.cpp(64,19): error C2039: 'Dist': 'point'의 멤버가 아닙니다.
+C:\Intel\ConsoleApplication2\ConsoleApplication2.cpp(4,7): message : 'point' 선언을 참조하십시오.
+C:\Intel\ConsoleApplication2\ConsoleApplication2.cpp(65,20): error C2039: 'Dist': 'point'의 멤버가 아닙니다.
+C:\Intel\ConsoleApplication2\ConsoleApplication2.cpp(4,7): message : 'point' 선언을 참조하십시오.
+C:\Intel\ConsoleApplication2\ConsoleApplication2.cpp(66,20): error C2039: 'Dist': 'point'의 멤버가 아닙니다.
+C:\Intel\ConsoleApplication2\ConsoleApplication2.cpp(4,7): message : 'point' 선언을 참조하십시오.
+C:\Intel\ConsoleApplication2\ConsoleApplication2.cpp(67,5): error C2664: 'rect Printp(point)': 인수 1을(를) 'point'에서 'point'(으)로 변환할 수 없습니다.
+C:\Intel\ConsoleApplication2\ConsoleApplication2.cpp(67,12): message : 복사 생성자가 모호하거나 사용할 수 있는 복사 생성자가 없어서 class 'point'을(를) 복사 생성할 수 없습니다.
+C:\Intel\ConsoleApplication2\ConsoleApplication2.cpp(49,6): message : 'Printp' 선언을 참조하십시오.
+C:\Intel\ConsoleApplication2\ConsoleApplication2.cpp(67,5): message : 인수 목록 '(point)'을(를) 일치시키는 동안
+C:\Intel\ConsoleApplication2\ConsoleApplication2.cpp(67,19): error C2664: 'rect Printp(point)': 인수 1을(를) 'point'에서 'point'(으)로 변환할 수 없습니다.
+C:\Intel\ConsoleApplication2\ConsoleApplication2.cpp(67,26): message : 복사 생성자가 모호하거나 사용할 수 있는 복사 생성자가 없어서 class 'point'을(를) 복사 생성할 수 없습니다.
+C:\Intel\ConsoleApplication2\ConsoleApplication2.cpp(49,6): message : 'Printp' 선언을 참조하십시오.
+C:\Intel\ConsoleApplication2\ConsoleApplication2.cpp(67,19): message : 인수 목록 '(point)'을(를) 일치시키는 동안
+C:\Intel\ConsoleApplication2\ConsoleApplication2.cpp(67,33): error C2664: 'rect Printp(point)': 인수 1을(를) 'point'에서 'point'(으)로 변환할 수 없습니다.
+C:\Intel\ConsoleApplication2\ConsoleApplication2.cpp(67,40): message : 복사 생성자가 모호하거나 사용할 수 있는 복사 생성자가 없어서 class 'point'을(를) 복사 생성할 수 없습니다.
+C:\Intel\ConsoleApplication2\ConsoleApplication2.cpp(49,6): message : 'Printp' 선언을 참조하십시오.
+C:\Intel\ConsoleApplication2\ConsoleApplication2.cpp(67,33): message : 인수 목록 '(point)'을(를) 일치시키는 동안
+C:\Intel\ConsoleApplication2\ConsoleApplication2.cpp(68,12): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\Intel\ConsoleApplication2\ConsoleApplication2.cpp(68,12): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 3개 필요하지만 0개가 제공되었습니다.
+C:\Intel\ConsoleApplication2\ConsoleApplication2.cpp(68,12): message : 누락된 variadic 인수 1이(가) 서식 문자열 '%.2f'에 필요합니다.
+C:\Intel\ConsoleApplication2\ConsoleApplication2.cpp(70,11): error C2665: 'rect::rect': 모든 인수 형식을 변환할 수 있는 오버로드된 함수가 없습니다.
+C:\Intel\ConsoleApplication2\ConsoleApplication2.cpp(30,5): message : 'rect::rect(point,point)'일 수 있습니다.
+C:\Intel\ConsoleApplication2\ConsoleApplication2.cpp(70,11): message : 'rect::rect(point,point)': 인수 1을(를) 'point'에서 'point'(으)로 변환할 수 없습니다.
+C:\Intel\ConsoleApplication2\ConsoleApplication2.cpp(70,12): message : 복사 생성자가 모호하거나 사용할 수 있는 복사 생성자가 없어서 class 'point'을(를) 복사 생성할 수 없습니다.
+C:\Intel\ConsoleApplication2\ConsoleApplication2.cpp(70,11): message : 인수 목록 '(point, point)'을(를) 일치시키는 동안
+C:\Intel\ConsoleApplication2\ConsoleApplication2.cpp(72,5): error C2664: 'rect Printp(point)': 인수 1을(를) 'point'에서 'point'(으)로 변환할 수 없습니다.
+C:\Intel\ConsoleApplication2\ConsoleApplication2.cpp(72,12): message : 복사 생성자가 모호하거나 사용할 수 있는 복사 생성자가 없어서 class 'point'을(를) 복사 생성할 수 없습니다.
+C:\Intel\ConsoleApplication2\ConsoleApplication2.cpp(49,6): message : 'Printp' 선언을 참조하십시오.
+C:\Intel\ConsoleApplication2\ConsoleApplication2.cpp(72,5): message : 인수 목록 '(point)'을(를) 일치시키는 동안
+C:\Intel\ConsoleApplication2\ConsoleApplication2.cpp(73,5): error C2664: 'rect Printp(point)': 인수 1을(를) 'point'에서 'point'(으)로 변환할 수 없습니다.
+C:\Intel\ConsoleApplication2\ConsoleApplication2.cpp(73,12): message : 복사 생성자가 모호하거나 사용할 수 있는 복사 생성자가 없어서 class 'point'을(를) 복사 생성할 수 없습니다.
+C:\Intel\ConsoleApplication2\ConsoleApplication2.cpp(49,6): message : 'Printp' 선언을 참조하십시오.
+C:\Intel\ConsoleApplication2\ConsoleApplication2.cpp(73,5): message : 인수 목록 '(point)'을(를) 일치시키는 동안
+C:\Intel\ConsoleApplication2\ConsoleApplication2.cpp(75,15): error C2065: 'LL': 선언되지 않은 식별자입니다.
+C:\Intel\ConsoleApplication2\ConsoleApplication2.cpp(76,15): error C2065: 'LR': 선언되지 않은 식별자입니다.
+C:\Intel\ConsoleApplication2\ConsoleApplication2.cpp(77,15): error C2065: 'UL': 선언되지 않은 식별자입니다.
+C:\Intel\ConsoleApplication2\ConsoleApplication2.cpp(78,15): error C2065: 'UR': 선언되지 않은 식별자입니다.
